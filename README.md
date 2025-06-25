@@ -60,20 +60,20 @@ The system is modular and includes:
 
 ## 📌 Future Scope
 
-- 📄 Resume analysis and keyword suggestions
-- 🗣️ Real-time voice modulation feedback
-- 🕹️ Gamification with badges/leaderboards
-- 🤝 Integration with job portals
-- 📱 Mobile app version
-- 🧑‍💼 Custom AI interviewer personalities
+-  Resume analysis and keyword suggestions
+-  Real-time voice modulation feedback
+-  Gamification with badges/leaderboards
+-  Integration with job portals
+-  Mobile app version
+-  Custom AI interviewer personalities
 
 ## 📌 Testing
 
 The system includes thorough testing:
-- ✅ Unit testing (Jest, Mocha)
-- 🔄 Integration testing
-- 👩‍💻 User testing across domains
-- 🧪 Performance testing with JMeter
+-  Unit testing (Jest, Mocha)
+-  Integration testing
+-  User testing across domains
+-  Performance testing with JMeter
 
 ## 📌 Project Cost
 
