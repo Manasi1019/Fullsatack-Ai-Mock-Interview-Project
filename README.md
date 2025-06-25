@@ -5,17 +5,17 @@ An AI-powered web platform that simulates real job interviews using voice input 
 
 ## 📌 Features
 
-- 🔄 **Dynamic Question Generation** using Google Gemini AI
-- 🧠 **AI-Powered Feedback** on spoken answers
-- 🗣️ **Speech Recognition** for voice-based input
-- 📷 **Camera Activation** to simulate real interview environment
-- 🧾 **Domain Selection** for personalized mock interview sessions
-- 📝 **Real-Time Evaluation** and suggestions for improvement
-- 🔐 **Secure Authentication** via Clerk
-- ☁️ **Firebase Integration** for real-time database
-- 🌐 **Hosted on Vercel** for fast and scalable deployment
+-  **Dynamic Question Generation** using Google Gemini AI
+-  **AI-Powered Feedback** on spoken answers
+-  **Speech Recognition** for voice-based input
+-  **Camera Activation** to simulate real interview environment
+-  **Domain Selection** for personalized mock interview sessions
+-  **Real-Time Evaluation** and suggestions for improvement
+-  **Secure Authentication** via Clerk
+-  **Firebase Integration** for real-time database
+-  **Hosted on Vercel** for fast and scalable deployment
 
-## 🛠️ Technologies Used
+## 📌 Technologies Used
 
 | Technology         | Purpose                                           |
 |--------------------|---------------------------------------------------|
@@ -27,7 +27,7 @@ An AI-powered web platform that simulates real job interviews using voice input 
 | Firebase Firestore | Real-time database                               |
 | Vercel             | Hosting and deployment                           |
 
-## 🧩 System Architecture
+## 📌 System Architecture
 
 The system is modular and includes:
 
@@ -39,7 +39,7 @@ The system is modular and includes:
 
 > Note: Camera remains active during interviews to simulate realism, but **no facial expression or body language tracking** is performed.
 
-## 🚀 How It Works
+## 📌 How It Works
 
 1. **User selects domain** (e.g., Java, Python)
 2. **Interview begins**: Camera and microphone activate
@@ -50,7 +50,7 @@ The system is modular and includes:
 7. **Results and suggestions** are shown to help improve
 
 
-## 🔍 Use Cases
+## 📌 Use Cases
 
 - Students and job seekers practicing for interviews
 - Educational platforms providing interview coaching
@@ -58,7 +58,7 @@ The system is modular and includes:
 - Self-assessment for communication and soft skills
 
 
-## 📈 Future Scope
+## 📌 Future Scope
 
 - 📄 Resume analysis and keyword suggestions
 - 🗣️ Real-time voice modulation feedback
@@ -67,7 +67,7 @@ The system is modular and includes:
 - 📱 Mobile app version
 - 🧑‍💼 Custom AI interviewer personalities
 
-## 🧪 Testing
+## 📌 Testing
 
 The system includes thorough testing:
 - ✅ Unit testing (Jest, Mocha)
@@ -75,7 +75,7 @@ The system includes thorough testing:
 - 👩‍💻 User testing across domains
 - 🧪 Performance testing with JMeter
 
-## 💰 Project Cost
+## 📌 Project Cost
 
 | Component              | Estimated Cost |
 |------------------------|----------------|
@@ -85,7 +85,7 @@ The system includes thorough testing:
 | Hosting & Database     | ₹0 (Vercel + Firebase free tiers) |
 | Total                  | ₹0              |
 
-## 📚 References
+## 📌 References
 
 - [Google Gemini AI](https://deepmind.google)
 - [Speech & Language Processing – Jurafsky & Martin (2023)](https://web.stanford.edu/~jurafsky/slp3/)
